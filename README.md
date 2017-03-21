@@ -1,10 +1,10 @@
 # WP Locale News #
-Contributors: chandrapatel
-Tags: news, rosetta, locale
-Requires at least: 4.7
-Tested up to: 4.7.3
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+**Contributors:** chandrapatel <br />
+**Tags:** news, rosetta, locale <br />
+**Requires at least:** 4.7 <br />
+**Tested up to:** 4.7.3 <br />
+**License:** GPLv2 or later <br />
+**License URI:** http://www.gnu.org/licenses/gpl-2.0.html
 
 Display news from locale's Rosetta site on admin dashboard and in theme.
 
