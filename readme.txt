@@ -10,7 +10,7 @@ Display news from locale's Rosetta site on admin dashboard and in theme.
 
 == Description ==
 
-Display news from locale's Rosetta site on admin dashboard and in theme
+Display news from locale's Rosetta site on admin dashboard and in theme.
 
 === Dashboard widget ===
 
