@@ -49,10 +49,10 @@ function wpln_load_plugin_textdomain() {
 
 	}
 
-	$mofile = sprintf( '%1$s-%2$s.mo', 'wp-locale-news', $locale );
+	$mofile = sprintf('%1$s-%2$s.mo', 'wp-locale-news', $locale);
 
 	// Look in wp-content/languages/plugins/wp-locale-news.
-	$global_mofile = WP_LANG_DIR . '/plugins/wp-locale-news/' . $mofile;
+	$global_mofile = WP_LANG_DIR.'/plugins/wp-locale-news/' . $mofile;
 
 	if ( file_exists( $global_mofile ) ) {
 
